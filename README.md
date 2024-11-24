@@ -1,1 +1,1 @@
-# project_cscu
+# project_csci
